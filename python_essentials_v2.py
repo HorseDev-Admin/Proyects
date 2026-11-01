@@ -17,7 +17,7 @@ h1 = input("Dame por favor tu primer nombre\n")
 
 h2 = input("Dame tu apellido por favor\n")
 
-ced = int(input("Dame tu cedula\n"))
+ced = (input("Dame tu cedula\n"))
 
 print(f"Señor {h1} {h2}, titular de la cedula de identidad:{ced}, usted ha sido hackeado")
 
